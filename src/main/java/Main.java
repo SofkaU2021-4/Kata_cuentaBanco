@@ -1,4 +1,6 @@
-public class Main {
+
+
+ class Main {
     public static void main(String[] args) {
         Account account = new Account();
         account.deposit(1000,"10/01/2021");
